@@ -1,0 +1,14 @@
+{
+  "name": "brookstone-theme-master",
+  "version": "1.0.0",
+  "description": "Brookstone Creative Framework for WordPress",
+  "main": "index.js",
+  "scripts": {
+    "start": "node-sass --watch / -o /"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
