@@ -3,7 +3,7 @@
 /**
 * header.php
 *
-* Description: Imported into functions.php, supporting all style/script enqueue actions.
+* Description: WordPress Index Page
 */
 
 ?>
